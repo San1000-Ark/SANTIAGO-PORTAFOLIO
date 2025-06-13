@@ -1,0 +1,77 @@
+<!DOCTYPE html> <html lang="en">
+
+<head>
+
+  <meta charset="UTF-8" /> <meta name="viewport" content="width=device-width, initial-scale=1" /> <title>Portafolio</title> <link rel="stylesheet" href="style.css" /> <link 
+  rel="shortcut icon" href="Navegador.png" type="image/x-icon">
+</head>
+
+<body>
+
+  <header> <h1 class="nameUser">SANTIAGO RESTREPO ARISMENDY</h1> <h1>PORTAFOLIO MODULO 2</h1> <h3>PROYECTOS HTML y CSS</h3>
+  </header>
+
+  <main> <section>
+      <h2>Semana 1</h2> <div class="proyectos">
+        <div class="proyecto"> <img 
+          src="https://imgs.search.brave.com/lDj8Tp4RGL2Vqahs5QuuRizVeERTfYolPUs_xV943qg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzUxUHNWc3d3eUtM/LmpwZw" 
+          alt="Icono Proyecto" /> <h3>MODULO-2-ENTRENAMIENTO-1</h3> <a href="https://san1000-ark.github.io/MODULO-2-ENTRENAMIENTO-1/" target="_blank">Ver repositorio</a>
+        </div>
+
+        <div class="proyecto"> <img 
+          src="https://imgs.search.brave.com/lDj8Tp4RGL2Vqahs5QuuRizVeERTfYolPUs_xV943qg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzUxUHNWc3d3eUtM/LmpwZw" 
+          alt="Icono Proyecto" /> <h3>Ejercicios-HTML</h3> <a href="https://san1000-ark.github.io/Ejercicios_HTML/" target="_blank">Ver repositorio</a>
+        </div>
+
+        <div class="proyecto"> <img 
+          src="https://imgs.search.brave.com/lDj8Tp4RGL2Vqahs5QuuRizVeERTfYolPUs_xV943qg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzUxUHNWc3d3eUtM/LmpwZw" 
+          alt="Icono Proyecto" /> <h3>HTML_LIST</h3> <a href="https://san1000-ark.github.io/HTML_LIST/" target="_blank">Ver repositorio</a>
+        </div> </div>
+    </section>
+
+    <section> <h2>Semana 2</h2> <div class="proyectos">
+        <div class="proyecto">
+          <img 
+          src="https://imgs.search.brave.com/lDj8Tp4RGL2Vqahs5QuuRizVeERTfYolPUs_xV943qg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzUxUHNWc3d3eUtM/LmpwZw" 
+          alt="Icono Proyecto" /> <h3>Mod2_Sem2-HTML-CSS-</h3> <a href="https://san1000-ark.github.io/Mod2_Sem2-HTML-CSS-/" target="_blank">Ver repositorio</a>
+        </div>
+
+        <div class="proyecto"> <img 
+          src="https://imgs.search.brave.com/lDj8Tp4RGL2Vqahs5QuuRizVeERTfYolPUs_xV943qg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzUxUHNWc3d3eUtM/LmpwZw" 
+          alt="Icono Proyecto" /> <h3>Restaurant</h3> <a href="https://san1000-ark.github.io/Restaurant/" target="_blank">Ver repositorio</a>
+        </div>
+
+        <div class="proyecto"> <img 
+          src="https://imgs.search.brave.com/lDj8Tp4RGL2Vqahs5QuuRizVeERTfYolPUs_xV943qg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzUxUHNWc3d3eUtM/LmpwZw"           alt="Icono Proyecto" /> <h3>Landing_Page</h3> <a href="https://san1000-ark.github.io/Landing_Page/" target="_blank">Ver repositorio</a>
+        </div> </section>
+
+    <section> <h2>Semana 3</h2> <div class="proyectos">
+
+        <div class="proyecto"> <img 
+          src="https://imgs.search.brave.com/lDj8Tp4RGL2Vqahs5QuuRizVeERTfYolPUs_xV943qg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzUxUHNWc3d3eUtM/LmpwZw" 
+          alt="Icono Proyecto" /> <h3>MOD2_SEM3</h3> <a href="https://san1000-ark.github.io/Mod2_Sem3-HTML-CSS/" target="_blank">Ver repositorio</a>
+        </div>
+
+        <div class="proyecto"> <img 
+          src="https://imgs.search.brave.com/lDj8Tp4RGL2Vqahs5QuuRizVeERTfYolPUs_xV943qg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzUxUHNWc3d3eUtM/LmpwZw" 
+          alt="Icono Proyecto" /> <h3>CARTAS_POKEMON</h3> <a href="https://san1000-ark.github.io/CARTAS_POKEMON/" target="_blank">Ver repositorio</a>
+        </div>
+
+        <div class="proyecto"> <img 
+          src="https://imgs.search.brave.com/lDj8Tp4RGL2Vqahs5QuuRizVeERTfYolPUs_xV943qg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzUxUHNWc3d3eUtM/LmpwZw" 
+          alt="Icono Proyecto" /> <h3>Trabajo-Feria---APT-33</h3> <a href="https://github.com/MateoAlRen/Trabajo-Feria---APT-33" target="_blank">Ver repositorio</a>
+        </div> </div>
+    </section>
+
+    <section> <h2>Semana 4</h2> <div class="proyects">
+        <div class="proyecto">
+          <img 
+          src="https://imgs.search.brave.com/lDj8Tp4RGL2Vqahs5QuuRizVeERTfYolPUs_xV943qg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzUxUHNWc3d3eUtM/LmpwZw" 
+          alt="Icono proyecto"> <h3>Freelancer_Bootstrap</h3> <a href="https://san1000-ark.github.io/Freelancer_BOOTSTRAP/" target="_blank">Ver repositorio</a>
+        </div> </div>
+    </section>
+  </main>
+
+  <footer> <p>© 2025 Santiago Restrepo Arismendy - Portafolio Módulo 2</p>
+  </footer>
+</body> </html>
